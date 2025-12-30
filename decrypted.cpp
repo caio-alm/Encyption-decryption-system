@@ -1,6 +1,3 @@
-//Feito por:
-//Caio Almendra Ferreira
-//Yasmin Cani Viviani
 #include <iostream>
 #include <fstream>
 #include <vector>
